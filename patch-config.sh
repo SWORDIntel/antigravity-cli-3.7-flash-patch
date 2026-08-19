@@ -27,7 +27,7 @@ NC="\033[0m"
 function print_banner() {
   clear
   echo -e "${BOLD}${CYAN}======================================================${NC}"
-  echo -e "${BOLD}${CYAN}       Antigravity CLI Configuration Manager (TUI)    ${NC}"
+  echo -e "${BOLD}${CYAN}           Antigravity CLI 3.7 Flash Patch            ${NC}"
   echo -e "${BOLD}${CYAN}======================================================${NC}"
   echo ""
 }
