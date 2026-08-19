@@ -1,0 +1,13 @@
+{
+  "allowNonWorkspaceAccess": true,
+  "enableTelemetry": false,
+  "model": "Gemini 3.7 Flash (High)",
+  "permissions": {
+    "allow": [
+      "command(*)"
+    ]
+  },
+  "trustedWorkspaces": [
+    "/home/user"
+  ]
+}
